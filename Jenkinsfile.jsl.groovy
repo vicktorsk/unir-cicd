@@ -3,7 +3,7 @@ library(
       retriever: modernSCM(
         [
           $class: 'GitSCMSource',
-          remote: "https://github.com/srayuso/unir-jsl.git"
+          remote: "https://github.com/vicktorsk/unir-jsl.git"
         ]
       )
     ) _
